@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>郑君的学习笔记</title>
-  <icon>https://www.gravatar.com/avatar/ef05bab8bfc24f2437b6f3e9aee9af49</icon>
+  <title>郑涵允的小世界</title>
+  <icon>https://www.gravatar.com/avatar/bf41e6ed6c0a8b0a6e35de40ff988afd</icon>
   <subtitle>要比昨天进步一点点</subtitle>
-  <link href="http://zhengjun.top/atom.xml" rel="self"/>
+  <link href="http://zhenghanyun.top/atom.xml" rel="self"/>
   
-  <link href="http://zhengjun.top/"/>
+  <link href="http://zhenghanyun.top/"/>
   <updated>2021-12-10T07:33:22.000Z</updated>
-  <id>http://zhengjun.top/</id>
+  <id>http://zhenghanyun.top/</id>
   
   <author>
-    <name>郑  君</name>
-    <email>aslucky1977@gmail.com</email>
+    <name>郑涵允</name>
+    <email>zhenghanyun2021@126.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>hexo的使用</title>
-    <link href="http://zhengjun.top/2021/12/10/%E5%B7%A5%E5%85%B7%E7%B1%BB/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://zhengjun.top/2021/12/10/%E5%B7%A5%E5%85%B7%E7%B1%BB/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://zhenghanyun.top/2021/12/10/%E5%B7%A5%E5%85%B7%E7%B1%BB/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://zhenghanyun.top/2021/12/10/%E5%B7%A5%E5%85%B7%E7%B1%BB/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2021-12-10T05:37:21.000Z</published>
     <updated>2021-12-10T07:33:22.000Z</updated>
     
@@ -38,26 +38,26 @@
   
   <entry>
     <title>本博客的诞生</title>
-    <link href="http://zhengjun.top/2017/09/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/"/>
-    <id>http://zhengjun.top/2017/09/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/</id>
+    <link href="http://zhenghanyun.top/2017/09/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/"/>
+    <id>http://zhenghanyun.top/2017/09/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/</id>
     <published>2017-09-24T14:51:56.000Z</published>
-    <updated>2019-06-14T23:59:50.000Z</updated>
+    <updated>2021-12-11T06:11:58.000Z</updated>
     
-    <content type="html"><![CDATA[<p>因为博客刚刚建立，慢慢会把其他地方的文章集中过来。</p><h1 id="这个博客的来源"><a href="#这个博客的来源" class="headerlink" title="这个博客的来源"></a>这个博客的来源</h1><p>昨天晚上本来想把写好的技术博客发表到 CSDN 上，结果有问题了。半天也传不上去，之前也有过各种问题，加上操作非常的不人性化，索性还是自己搭建一个吧，保存在本地也比较安全一些。于是注册了一个域名。使用 github pages + Hexo 搭建了一个静态网站。</p><p>花了一天的时间，初步完成了，可以写文章了。后面再慢慢修整。</p><p>2018.08.24 07:00<br>I decide try my best to write my blog with English. Why?</p><ol><li>I can study English well</li><li>I don’t need switch input method frequently, it’s annoying me.</li><li>when I copy and past I don’t need translate, :)</li></ol><p>If you guys suffering with my poor English, feel free to correct me anytime, I’ll be very thankful. :D</p><p>2018.08.28 04:17<br>provide block chain utils API service now. Get API list use POST with follows link<br><a href="http://47.100.193.211:49911/api/v1.0/help/">http://47.100.193.211:49911/api/v1.0/help/</a></p><p>2019.06.01<br>block chain utils shutdown.</p><p>Plan migrate to Hugo, when I write lots articles, hexo not working as well as usual, only 500+ articles present.</p>]]></content>
+    <content type="html"><![CDATA[<p>博客开始创建啦</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;因为博客刚刚建立，慢慢会把其他地方的文章集中过来。&lt;/p&gt;
-&lt;h1 id=&quot;这个博客的来源&quot;&gt;&lt;a href=&quot;#这个博客的来源&quot; class=&quot;headerlink&quot; title=&quot;这个博客的来源&quot;&gt;&lt;/a&gt;这个博客的来源&lt;/h1&gt;&lt;p&gt;昨天晚上本来想把写好的技术博客发表</summary>
+    <summary type="html">&lt;p&gt;博客开始创建啦&lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="其他" scheme="http://zhengjun.top/categories/%E5%85%B6%E4%BB%96/"/>
+    <category term="其他" scheme="http://zhenghanyun.top/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-    <category term="随笔" scheme="http://zhengjun.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://zhenghanyun.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
