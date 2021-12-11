@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhenghanyun.top/2017/09/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/</loc>
+    <loc>http://zhenghanyun.top/2021/12/11/%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/</loc>
     
     <lastmod>2021-12-11</lastmod>
     
@@ -13,7 +13,7 @@
   <url>
     <loc>http://zhenghanyun.top/2021/12/10/%E5%B7%A5%E5%85%B7%E7%B1%BB/hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     
-    <lastmod>2021-12-10</lastmod>
+    <lastmod>2021-12-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -55,20 +55,6 @@
   </url>
 
   
-  <url>
-    <loc>http://zhenghanyun.top/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://zhenghanyun.top/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2021-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
